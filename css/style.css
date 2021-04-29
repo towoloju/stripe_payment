@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    font-size:13px;
+}
+h1{
+    text-align: center;
+    margin-top:50px;
+}
+
+.container .product-container{
+    width:150px;
+    margin-top: 20px;
+}
+.product-container .product-image{
+    height:100%;
+    width:100%;
+}
+.product-container .product-content{
+    text-align: center;
+
+}
+.product-content h3{
+    font-size:100%;
+}
+.product-content p{
+    font-size:80%;
+}
